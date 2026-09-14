@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "CareSync",
+    "slug": "caresync",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "caresync",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "plugins": ["expo-router"],
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#008080" } },
+    "web": { "bundler": "metro" }
+  }
+}
